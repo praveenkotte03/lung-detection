@@ -1,0 +1,7 @@
+{
+  "name": "PulmoScan AI",
+  "description": "An advanced AI-powered assistant for lung cancer risk assessment and scan analysis. This tool uses Gemini's multi-modal capabilities to provide educational screening and information. Note: This is not a substitute for professional medical advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
